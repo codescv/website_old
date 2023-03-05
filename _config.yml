@@ -27,7 +27,7 @@ url: "https://blog.codescv.com" # the base hostname & protocol for your site, e.
 twitter_username: codescv
 github_username:  codescv
 github_repo: codescv.github.io
-google-analytics: "G-NRFV6QTHB6"
+google_analytics: "G-NRFV6QTHB6"
 
 markdown: kramdown
 kramdown:
